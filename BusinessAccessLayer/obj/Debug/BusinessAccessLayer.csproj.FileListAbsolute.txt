@@ -1,0 +1,45 @@
+D:\C# .NET\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+D:\C# .NET\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+D:\C# .NET\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessEntityLayer.dll
+D:\C# .NET\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\C# .NET\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessEntityLayer.pdb
+D:\C# .NET\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\C# .NET\Sales and Inventory Management System\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csprojResolveAssemblyReference.cache
+D:\C# .NET\Sales and Inventory Management System\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+D:\C# .NET\Sales and Inventory Management System\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessEntityLayer.dll
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessEntityLayer.dll
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessEntityLayer.dll
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessEntityLayer.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\BusinessAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb

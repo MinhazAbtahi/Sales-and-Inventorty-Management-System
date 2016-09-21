@@ -1,0 +1,15 @@
+D:\C# .NET\Sales and Inventory Management System\BusinessEntityLayer\bin\Debug\BusinessEntityLayer.dll
+D:\C# .NET\Sales and Inventory Management System\BusinessEntityLayer\bin\Debug\BusinessEntityLayer.pdb
+D:\C# .NET\Sales and Inventory Management System\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.csprojResolveAssemblyReference.cache
+D:\C# .NET\Sales and Inventory Management System\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.dll
+D:\C# .NET\Sales and Inventory Management System\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.pdb
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\BusinessEntityLayer\bin\Debug\BusinessEntityLayer.dll
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\BusinessEntityLayer\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.dll
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\BusinessEntityLayer\bin\Debug\BusinessEntityLayer.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\BusinessEntityLayer\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\BusinessEntityLayer\obj\Debug\BusinessEntityLayer.pdb

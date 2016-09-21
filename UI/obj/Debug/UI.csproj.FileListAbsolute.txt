@@ -1,0 +1,324 @@
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\UI.exe.config
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\UI.exe
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\UI.pdb
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\MainWindow.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\App.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\UI_MarkupCompile.cache
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\UI_MarkupCompile.lref
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\MainWindow.baml
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\UI.g.resources
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\UI.Properties.Resources.resources
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\UI.exe
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\UI.pdb
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\BusinessAccessLayer.dll
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\BusinessEntityLayer.dll
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\BusinessAccessLayer.pdb
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\BusinessEntityLayer.pdb
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.dll
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.xml
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\DataAccessLayer.dll
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\DataAccessLayer.pdb
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Category.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Company.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Customer.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\CustomersRecord.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Login Details.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Login.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\MainMenu.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Product.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\ProductsRecord.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Register.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Sales.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\SalesRecord.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Splash Screen.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Stock.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\StockRecord.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Category.baml
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Company.baml
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Customer.baml
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\CustomersRecord.baml
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Login Details.baml
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Login.baml
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\MainMenu.baml
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Product.baml
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\ProductsRecord.baml
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Register.baml
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Sales.baml
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\SalesRecord.baml
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Splash Screen.baml
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\Stock.baml
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\StockRecord.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\bin\Debug\UI.exe.config
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\UI.exe
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\UI.pdb
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\bin\Debug\UI.exe
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\bin\Debug\UI.pdb
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\bin\Debug\BusinessEntityLayer.dll
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.dll
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\bin\Debug\DataAccessLayer.dll
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.xml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\bin\Debug\DataAccessLayer.pdb
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\MainWindow.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Category.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Company.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Customer.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\CustomersRecord.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Login Details.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Login.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\MainMenu.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Product.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\ProductsRecord.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Register.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Sales.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\SalesRecord.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Splash Screen.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Stock.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\StockRecord.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\App.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\MainWindow.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Category.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Company.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Customer.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\CustomersRecord.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Login Details.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Login.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\MainMenu.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Product.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\ProductsRecord.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Register.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Sales.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\SalesRecord.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Splash Screen.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\Stock.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\Menu\StockRecord.baml
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\UI.g.resources
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Abtahi\Desktop\New folder (2)\Sales and Inventory Management System\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\bin\Debug\UI.exe.config
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\UI.exe
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\UI.pdb
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\bin\Debug\UI.exe
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\bin\Debug\UI.pdb
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\bin\Debug\BusinessEntityLayer.dll
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.dll
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\bin\Debug\DataAccessLayer.dll
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.xml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\bin\Debug\DataAccessLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\MainWindow.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Category.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Company.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Customer.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\CustomersRecord.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Login Details.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Login.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\MainMenu.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Product.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\ProductsRecord.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Register.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Sales.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\SalesRecord.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Splash Screen.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Stock.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\StockRecord.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\App.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\MainWindow.baml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Category.baml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Company.baml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Customer.baml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\CustomersRecord.baml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Login Details.baml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Login.baml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\MainMenu.baml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Product.baml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\ProductsRecord.baml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Register.baml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Sales.baml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\SalesRecord.baml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Splash Screen.baml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\Stock.baml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\Menu\StockRecord.baml
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\UI.g.resources
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\MainWindow.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Category.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Company.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Customer.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\CustomersRecord.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Login Details.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Login.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\MainMenu.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Product.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\ProductsRecord.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Register.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Sales.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\SalesRecord.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Splash Screen.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Stock.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\StockRecord.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\UserProfile.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\App.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\bin\Debug\UI.exe.config
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\bin\Debug\UI.exe
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\bin\Debug\UI.pdb
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\bin\Debug\BusinessEntityLayer.dll
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.dll
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\bin\Debug\DataAccessLayer.dll
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.xml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\bin\Debug\DataAccessLayer.pdb
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\MainWindow.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Category.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Company.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Customer.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\CustomersRecord.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Login Details.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Login.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\MainMenu.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Product.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\ProductsRecord.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Register.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Sales.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\SalesRecord.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Splash Screen.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Stock.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\StockRecord.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\UserProfile.baml
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\UI.g.resources
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\UI.exe
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\UI\obj\Debug\UI.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\UI.exe.config
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\UI.exe
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\UI.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\UI.exe
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\UI.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\BusinessAccessLayer.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\BusinessEntityLayer.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\DataAccessLayer.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\BusinessAccessLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\BusinessEntityLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.xml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\DataAccessLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\MainWindow.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Category.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Company.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Customer.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\CustomersRecord.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Login Details.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Login.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\MainMenu.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Product.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\ProductsRecord.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Register.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Sales.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\SalesRecord.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Splash Screen.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Stock.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\StockRecord.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\UserProfile.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\App.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\MainWindow.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Category.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Company.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Customer.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\CustomersRecord.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Login Details.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Login.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\MainMenu.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Product.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\ProductsRecord.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Register.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Sales.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\SalesRecord.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Splash Screen.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\Stock.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\StockRecord.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\Menu\UserProfile.baml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\UI.g.resources
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\WPFToolkit.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\Elysium.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\UI\bin\Debug\MaterialDesignColors.dll
+G:\Sales and Inventory Management System\UI\bin\Debug\UI.exe.config
+G:\Sales and Inventory Management System\UI\obj\Debug\UI.exe
+G:\Sales and Inventory Management System\UI\obj\Debug\UI.pdb
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\Elysium.dll
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.dll
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\MaterialDesignColors.dll
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\System.Windows.Interactivity.dll
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\WPFToolkit.dll
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.xml
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\C# .NET\Sales and Inventory Management System\UI\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\UserProfile.g.cs
+D:\C# .NET\Sales and Inventory Management System\UI\obj\Debug\Menu\UserProfile.baml

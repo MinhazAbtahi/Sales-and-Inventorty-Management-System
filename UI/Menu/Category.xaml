@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="UI.Menu.Category"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UI.Menu"
+             mc:Ignorable="d" 
+             d:DesignHeight="480" d:DesignWidth="800">
+    <Grid x:Name="CategoryRoot" Background="White">
+        <Label x:Name="categoryLabel" Content="Category" HorizontalAlignment="Left" Margin="349,95,0,0" VerticalAlignment="Top" FontSize="26" FontWeight="Bold"/>
+        <GroupBox x:Name="groupBox" Background="#FFE9EDF3" Header="Category Details" HorizontalAlignment="Left" Margin="161,157,0,0" VerticalAlignment="Top" Width="497" Height="123" FontSize="14" FontWeight="Bold"/>
+        <Label x:Name="categoryNameLabel" Content="Category:" HorizontalAlignment="Left" Margin="221,196,0,0" VerticalAlignment="Top" Width="81" Height="28"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="58" Margin="161,307,0,0" Stroke="Black" VerticalAlignment="Top" Width="497"/>
+        <Button x:Name="categorySubmitButton" Content="Register" HorizontalAlignment="Left" Margin="300,322,0,0" VerticalAlignment="Top" Width="97" Height="28" FontSize="14" Click="categorySubmitButton_Click"/>
+        <Button x:Name="categoryn" Content="New" HorizontalAlignment="Left" Margin="173,322,0,0" VerticalAlignment="Top" Width="97" Height="28" FontSize="14" Click="categoryNewButton_Click"/>
+        <Button x:Name="categoryUpdateButton" Content="Update" HorizontalAlignment="Left" Margin="429,322,0,0" VerticalAlignment="Top" Width="97" Height="28" FontSize="14"/>
+        <Button x:Name="categoryDeleteButton" Content="Delete" HorizontalAlignment="Left" Margin="550,322,0,0" VerticalAlignment="Top" Width="97" Height="28" FontSize="14"/>
+        <Button x:Name="categorySearchButton" Content="Search" HorizontalAlignment="Left" Margin="511,229,0,0" VerticalAlignment="Top" Width="97" Height="28" FontSize="14" FontWeight="Bold"/>
+        <Button x:Name="backButton"  HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="60" Height="58" FontSize="16" Click="backButton_Click" FontWeight="Bold" Opacity="0.995" SnapsToDevicePixels="True">
+            <StackPanel>
+                <Image Source="/UI;component/Resources/backbtn.png"/>
+                <TextBlock> Disconnect from Server</TextBlock>
+            </StackPanel>
+        </Button>
+        <Image Width="70" Height="60" HorizontalAlignment="Left"  VerticalAlignment="Top"  Source="/UI;component/Resources/Category.png" Margin ="269,90,0,0"  />
+        <ComboBox x:Name="productCategoryComboBox" HorizontalAlignment="Left" Margin="309,196,0,0" VerticalAlignment="Top" Width="299" Height="28" FontSize="14" IsEditable="True" DisplayMemberPath="CategoryName"/>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,20 @@
+D:\C# .NET\Sales and Inventory Management System\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\C# .NET\Sales and Inventory Management System\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\C# .NET\Sales and Inventory Management System\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\C# .NET\Sales and Inventory Management System\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\C# .NET\Sales and Inventory Management System\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Syed Shafeyee\Desktop\SIMS\Sales and Inventory Management System\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Abtahi\Desktop\Sales and Inventory Management System\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Syed Shafeyee\Desktop\Sales and Inventory Management System\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

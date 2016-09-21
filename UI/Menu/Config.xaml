@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="UI.Menu.Config"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UI.Menu"
+             mc:Ignorable="d" 
+             d:DesignHeight="480" d:DesignWidth="800">
+    <Grid x:Name="ConfigRoot" Background="White" Margin="1,-20,-1,-10">
+        <GroupBox x:Name="productGroupBox" Header="Config &amp; Features" HorizontalAlignment="Left" Margin="161,135,0,0" VerticalAlignment="Top" Width="497" Height="251" FontSize="14" FontWeight="Bold" ScrollViewer.HorizontalScrollBarVisibility="Auto">
+            <RichTextBox x:Name="configFeatureTextBox" HorizontalAlignment="Left" Height="108" Margin="147,62,0,0" VerticalAlignment="Top" Width="298" FontWeight="Normal" VerticalScrollBarVisibility="Auto">
+                <FlowDocument>
+                    <Paragraph>
+                    </Paragraph>
+                </FlowDocument>
+            </RichTextBox>
+        </GroupBox>
+        <Label x:Name="productNameLabel" Content="Product Name:" HorizontalAlignment="Left" Margin="219,178,0,0" VerticalAlignment="Top" Width="98" Height="28"/>
+        <Label x:Name="productCategoryLabel" Content="Features" HorizontalAlignment="Left" Margin="219,214,0,0" VerticalAlignment="Top" Width="81" Height="28"/>
+        <Label x:Name="productCompanyLabel" Content="Price" HorizontalAlignment="Left" Margin="219,338,0,0" VerticalAlignment="Top" Width="83" Height="27"/>
+        <TextBox x:Name="configProductNameTextField" HorizontalAlignment="Left" Height="25" Margin="313,180,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196" FontSize="14"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="58" Margin="161,402,0,0" Stroke="Black" VerticalAlignment="Top" Width="497"/>
+        <Button x:Name="configRegisterButton" Content="Register" HorizontalAlignment="Left" Margin="300,417,0,0" VerticalAlignment="Top" Width="97" Height="28" FontSize="14"/>
+        <Button x:Name="configNewButton" Content="New" HorizontalAlignment="Left" Margin="173,417,0,0" VerticalAlignment="Top" Width="97" Height="28" FontSize="14"/>
+        <Button x:Name="configUpdateButton" Content="Update" HorizontalAlignment="Left" Margin="429,417,0,0" VerticalAlignment="Top" Width="97" Height="28" FontSize="14"/>
+        <Button x:Name="configDeleteButton" Content="Delete" HorizontalAlignment="Left" Margin="550,417,0,0" VerticalAlignment="Top" Width="97" Height="28" FontSize="14"/>
+        <Label x:Name="label" Content="Config &amp; Features" HorizontalAlignment="Left" Margin="308,81,0,0" VerticalAlignment="Top" FontSize="24" FontWeight="Bold"/>
+        <Button x:Name="configProductSearchButton" Content="Search" HorizontalAlignment="Left" Margin="515,178,0,0" VerticalAlignment="Top" Width="97" Height="28" FontSize="14" FontWeight="Bold"/>
+        <TextBox x:Name="configPriceTextBox" HorizontalAlignment="Left" Height="25" Margin="313,338,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="299" FontSize="14"/>
+
+    </Grid>
+</UserControl>

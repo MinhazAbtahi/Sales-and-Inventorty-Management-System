@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="UI.Menu.Customer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UI.Menu"
+             mc:Ignorable="d" 
+             d:DesignHeight="480" d:DesignWidth="800">
+    <Grid x:Name="CustomerRoot" Background="White">
+
+        <Label x:Name="customerProfileLabel" Content="Customer Profile" HorizontalAlignment="Left" Margin="308,52,0,0" VerticalAlignment="Top" FontSize="26" FontWeight="Bold"/>
+        <GroupBox x:Name="groupBox" Background="#FFE9EDF3" Header="Customer Details" HorizontalAlignment="Left" Margin="161,109,0,0" VerticalAlignment="Top" Width="497" Height="238" FontSize="14" FontWeight="Bold">
+            <TextBox x:Name="customerAddressTextBox" HorizontalAlignment="Left" Height="25" Margin="167,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="274" FontWeight="Normal"/>
+        </GroupBox>
+        <Label x:Name="customerIdLabel" Content="Customer ID:" HorizontalAlignment="Left" Margin="221,153,0,0" VerticalAlignment="Top" Width="81" Height="28"/>
+        <Label x:Name="customerNameLabel" Content="Customer Name:" HorizontalAlignment="Left" Margin="221,186,0,0" VerticalAlignment="Top" Width="108" Height="28"/>
+        <Label x:Name="customerAddressLabel" Content="Address:" HorizontalAlignment="Left" Margin="221,219,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.448,-0.089" Width="74" Height="28"/>
+        <Label x:Name="regEmailLabel" Content="Email" HorizontalAlignment="Left" Margin="221,252,0,0" VerticalAlignment="Top" Width="42" Height="28"/>
+        <Label x:Name="regContactNoLabel" Content="Contact No:" HorizontalAlignment="Left" Margin="221,286,0,0" VerticalAlignment="Top" Width="81" Height="27"/>
+        <TextBox x:Name="customerIdTextBox" HorizontalAlignment="Left" Height="25" Margin="334,155,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="168"/>
+        <TextBox x:Name="customerrNameTextBox" HorizontalAlignment="Left" Height="25" Margin="334,189,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="274"/>
+        <TextBox x:Name="customerEmailTextBox" HorizontalAlignment="Left" Height="24" Margin="334,255,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="274"/>
+        <TextBox x:Name="customerContactTextBox" HorizontalAlignment="Left" Height="24" Margin="334,288,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="274"/>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="58" Margin="161,365,0,0" Stroke="Black" VerticalAlignment="Top" Width="497"/>
+        <Button x:Name="customerSubmitButton" Content="Register" HorizontalAlignment="Left" Margin="300,380,0,0" VerticalAlignment="Top" Width="97" Height="28" FontSize="14" Click="customerSubmitButton_Click"/>
+        <Button x:Name="customerNewButton" Content="New" HorizontalAlignment="Left" Margin="173,380,0,0" VerticalAlignment="Top" Width="97" Height="28" FontSize="14" Click="customerNewButton_Click"/>
+        <Button x:Name="customerUpdateButton" Content="Update" HorizontalAlignment="Left" Margin="429,380,0,0" VerticalAlignment="Top" Width="97" Height="28" FontSize="14" Click="customerUpdateButton_Click"/>
+        <Button x:Name="customerDeleteButton" Content="Delete" HorizontalAlignment="Left" Margin="550,380,0,0" VerticalAlignment="Top" Width="97" Height="28" FontSize="14" Click="customerDeleteeButton_Click"/>
+        <Button x:Name="customerSearchButton" Content="Search" HorizontalAlignment="Left" Margin="511,152,0,0" VerticalAlignment="Top" Width="97" Height="28" FontSize="14" FontWeight="Bold" Click="customerSearchButton_Click"/>
+        <Button x:Name="backButton"  HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="60" Height="58" FontSize="16" Click="backButton_Click" FontWeight="Bold" Opacity="0.995" SnapsToDevicePixels="True">
+            <StackPanel>
+                <Image Source="/UI;component/Resources/backbtn.png"/>
+                <TextBlock> Disconnect from Server</TextBlock>
+            </StackPanel>
+        </Button>
+        <Image Width="70" Height="60" HorizontalAlignment="Left"  VerticalAlignment="Top"  Source="/UI;component/Resources/Profile.png" Margin ="230,40,0,0"  />
+
+    </Grid>
+</UserControl>
