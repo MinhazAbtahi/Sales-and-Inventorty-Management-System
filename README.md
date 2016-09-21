@@ -1,4 +1,4 @@
-# Sales-and-Inventorty-Management-System-
+# Sales-and-Inventorty-Management-System
 
 We are developing a Sales and Inventory Management System that features 
 integration of sales, inventory control, purchase order, customer management and 
