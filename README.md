@@ -2,7 +2,7 @@
 
 We are developing a Sales and Inventory Management System that features 
 integration of sales, inventory control, purchase order, customer management and 
-office accounting. The sales and inventory system calculates the pricing markdowns
+office accounting. The Sales and Inventory Management calculates the pricing markdowns
 automatically as sales occurs.
 
 This Sales and Inventory Management System is being developed by following Multitier Architecture
